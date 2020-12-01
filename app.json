@@ -1,0 +1,12 @@
+{
+  "name": "pomo",
+  "displayName": "pomo",
+  "expo": {
+    "name": "pomo",
+    "slug": "pomo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
