@@ -1,11 +1,11 @@
 import React from 'react'
 import { StyleSheet, View } from 'react-native'
-import HomeScreen from './src/views/HomeScreen'
+import Clock from '../components/Clock'
 
-export default function App() {
+export default function HomeScreen() {
 	return (
 		<View style={styles.container}>
-			<HomeScreen />
+			<Clock />
 		</View>
 	)
 }
